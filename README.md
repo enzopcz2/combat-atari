@@ -57,4 +57,3 @@ O projeto Combat é um jogo simples de tiro em 2D com foco em prática de lógic
 - 👨‍💻 Desenvolvimento modular: Possui arquitetura que permite expansão e customização de componentes como o jogador, os inimigos e os mapas.
 
 - 🧪 Testes de desempenho: Útil para avaliar a performance gráfica e lógicas de atualização em aplicações Java baseadas em loop de jogo.
-- 
