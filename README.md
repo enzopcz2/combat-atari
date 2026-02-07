@@ -6,7 +6,7 @@
   <br><br>
 </h1>
 
-<p align="center">Um remake do jogo Combat feito em 19777 para o console Atari 2600</p>
+<p align="center">Um remake do jogo Combat feito em 1977 para o console Atari 2600</p>
 
 ## 🧑‍💻 **Tecnologias**
 
